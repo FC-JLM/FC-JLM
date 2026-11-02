@@ -1,3 +1,5 @@
+<p align="center"> <img src="assets/images.png" alt="Logo de la Fundación Canaria José Luis Montesinos" width="220"> </p> <h1 align="center">Fundación Canaria José Luis Montesinos · Tecnología</h1> <p align="center"><strong>Puerto de la Cruz, Tenerife · Entidad sin ánimo de lucro desde 2014</strong></p>
+
 # Fundación Canaria José Luis Montesinos · Tecnología
 
 **Puerto de la Cruz, Tenerife · Entidad sin ánimo de lucro desde 2014**
